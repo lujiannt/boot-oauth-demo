@@ -7,8 +7,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/server-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/server-oauth/pom.xml" />
-        <option value="$PROJECT_DIR$/module-user/pom.xml" />
-        <option value="$PROJECT_DIR$/module-shop/pom.xml" />
+        <option value="$PROJECT_DIR$/server-oauth-db/pom.xml" />
+        <option value="$PROJECT_DIR$/server-oauth-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/module-client1/pom.xml" />
+        <option value="$PROJECT_DIR$/module-client2/pom.xml" />
       </list>
     </option>
   </component>

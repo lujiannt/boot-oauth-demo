@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/module-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-client1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-client2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/module-shop" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/module-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-oauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-oauth-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-oauth-sso" charset="UTF-8" />
   </component>
 </project>
